@@ -9,7 +9,7 @@ Termux =
 - node.
 
 Cmd =
-Download Nodejs dan git bash
+(Download Nodejs dan git bash)
 - git clone https://SLEBEWTZYV2/DupeCrowns
 - npm i
 - node .
