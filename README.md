@@ -1,4 +1,5 @@
-# Tutor?
+# Remaked Sc. Real Maker = Lana, Remaked By = SLEBEWTZYV2
+Tutor Cuy? :
 Termux =
 - pkg update $$ pkg upgrade
 - pkg install git
