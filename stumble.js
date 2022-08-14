@@ -62,7 +62,7 @@ const questions = [
     }
 ];
 
-const asciiText = figlet.textSync("Stumbled", {
+const asciiText = figlet.textSync("DupeCrown", {
     font: 'Graffiti',
     horizontalLayout: 'default',
     verticalLayout: 'default',
